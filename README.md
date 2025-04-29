@@ -53,7 +53,7 @@ Presidency University, Bengaluru *(2016 – 2020)*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ykakran05&show_icons=true&theme=react&hide_border=true" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ykakran05&show_icons=true&theme=react&hide_border=true" width="48%"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ykakran05&theme=react&hide_border=true" width="48%"/>
 </p>
 
